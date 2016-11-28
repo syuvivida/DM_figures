@@ -1,8 +1,8 @@
-# monoH_figures
+# DM_figures
 ```
-git clone git@github.com:syuvivida/monoH_figures.git
+git clone git@github.com:syuvivida/DM_figures.git
 
-cd monoH_figures
+cd DM_figures
 ```
 
 
