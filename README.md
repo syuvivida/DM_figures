@@ -1,8 +1,8 @@
-# DM_figures
+# darkmatter_figures
 ```
-git clone git@github.com:syuvivida/DM_figures.git
+git clone git@github.com:syuvivida/darkmatter_figures.git
 
-cd DM_figures
+cd darkmatter_figures
 ```
 
 
