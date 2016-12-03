@@ -1,0 +1,1 @@
+The variation of sp (mixing angle between hb and h) does not change either cross section nor the kinematic distributions.
