@@ -1,0 +1,1 @@
+The kinematic distributions do not depend on tanbeta
