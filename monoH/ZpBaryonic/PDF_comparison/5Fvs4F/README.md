@@ -6,15 +6,15 @@ The distributions from "5F PDFs + 4F cards" vs "5F PDFs + 5F cards" are also con
 
 ## Naming
 
-263000 NNPDF 3.0 5F LO PDFs
+263000: NNPDF 3.0 5F LO PDFs
 
-263400 NNPDF 3.0 4F LO PDFs
+263400: NNPDF 3.0 4F LO PDFs
 
-315200 NNPDF 3.1 5F LO PDFs
+315200: NNPDF 3.1 5F LO PDFs
 
-5F_315200 NNPDF 3.1 5F LO PDFs with consistent pro card and run card
+5F_315200: NNPDF 3.1 5F LO PDFs with consistent pro card and run card
 
-263400_315200 use the weights saved in samples with default PDF=315200 to get 263400 distributions
+
 
 ## File meaning
 
